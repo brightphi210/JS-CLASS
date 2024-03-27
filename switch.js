@@ -57,7 +57,7 @@ else if(gender === 'female'){
 
 
 // const num1 = prompt('Enter num1: ')
-// const num2 = prompt('Enter num2: ')
+const num2 = prompt('Enter num2: ')
 
 
 // switch(prompt('Enter Sign')) {
